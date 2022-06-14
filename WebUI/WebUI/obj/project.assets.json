@@ -8475,23 +8475,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Orkhan\\.nuget\\packages\\": {},
+    "C:\\Users\\Mahammed Jafarzade\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orkhan\\OneDrive\\Desktop\\JuanF_B\\WebUI\\WebUI\\WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\Mahammed Jafarzade\\Desktop\\JuanF_B\\WebUI\\WebUI\\WebUI.csproj",
       "projectName": "WebUI",
-      "projectPath": "C:\\Users\\Orkhan\\OneDrive\\Desktop\\JuanF_B\\WebUI\\WebUI\\WebUI.csproj",
-      "packagesPath": "C:\\Users\\Orkhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orkhan\\OneDrive\\Desktop\\JuanF_B\\WebUI\\WebUI\\obj\\",
+      "projectPath": "C:\\Users\\Mahammed Jafarzade\\Desktop\\JuanF_B\\WebUI\\WebUI\\WebUI.csproj",
+      "packagesPath": "C:\\Users\\Mahammed Jafarzade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mahammed Jafarzade\\Desktop\\JuanF_B\\WebUI\\WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Orkhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mahammed Jafarzade\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8555,7 +8555,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
